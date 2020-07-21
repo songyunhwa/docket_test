@@ -29,7 +29,6 @@ position: markerPosition
 
 //마커가 지도 위에 표시되도록 설정합니다
 marker.setMap(map);
-hello!
 
 //아래 코드는 지도 위의 마커를 제거하는 코드입니다
 //marker.setMap(null);    
